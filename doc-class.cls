@@ -164,7 +164,7 @@
       \LenToUnit{\paperwidth-2 cm-0.2 cm+0.05cm},
       \LenToUnit{\paperheight-1.0 cm}
       ){\vtop{{\null}\makebox[0pt][c]{
-               \small\color{gray}\textit{Last updated in June 2024}\hspace{\widthof{Last updated in June 2024}}
+               \small\color{gray}\textit{Last updated in Jan 2025}\hspace{\widthof{Last updated in Jan 2025}}
             }}}%
    }%
 }%
